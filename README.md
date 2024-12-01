@@ -60,3 +60,34 @@ json
   "tech_features": ["AI", "Blockchain", "Machine Learning"]
 }
 `
+Screenshots/Images
+Here are some visual demonstrations of the VaxInsight agent in action:
+
+Dashboard Overview
+![alt text]([https://github.com/devdattatalele/VaxInsight-AI-Powered-Healthcare-Journey-Analytics/blob/main/Screenshot%20from%202024-12-01%2018-19-09.png)
+
+Real-Time Analytics
+![alt text](https://github.com/devdattatalele/VaxInsight-AI-Powered-Healthcare-Journey-Analytics/blob/main/Screenshot%20from%202024-12-01%2018-25-29.png)
+
+Simulated Data Flow
+![alt text](https://github.com/devdattatalele/VaxInsight-AI-Powered-Healthcare-Journey-Analytics/blob/main/Screenshot%20from%202024-12-01%2018-25-02.png)
+
+Contributing
+We welcome contributions to improve VaxInsight! Please fork the repository, make changes, and submit a pull request. Contributions are encouraged, whether they're for bug fixes, new features, or documentation improvements.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+markdown
+Copy code
+
+### Notes:
+1. **Image Files**: 
+   - You need to upload your images (e.g., `dashboard_overview.png`, `real_time_analytics.png`, `data_flow_example.png`) to a folder in your Git repository, such as `/images/`.
+   - Ensure the image files are correctly referenced in the markdown (`images/dashboard_overview.png`).
+
+2. **Repository URL**: Replace `<repository_url>` with the actual URL of your repository.
+
+3. **Customization**: Customize the text and images to better reflect your project and its functionalities.
+
+This approach will render the images in your README file when viewed on platforms like GitHub, GitLab, etc.
